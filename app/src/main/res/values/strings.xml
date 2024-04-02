@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">MugiwaraCrew</string>
+    <string name="app_version">App Version</string>
+    <string name="number_version">1.1</string>
+
+    <string name="crews_list">Mugiwara Crews</string>
+    <string name="crews_name">Crews Name</string>
+    <string name="position">Position</string>
+    <string name="from">From</string>
+    <string name="description">Description</string>
+
+    <string name="about">About Me</string>
+
+    <string name="profile_name">Anisa Nurjanah</string>
+    <string name="profile_email">anisanurjanah2705@gmail.com</string>
+
+    <string name="crews_detail">Crews Detail</string>
+    <string name="bt_share">Share</string>
+
+    <string-array name="data_name">
+        <item>Monkey D. Luffy</item>
+        <item>Roronoa Zoro</item>
+        <item>Nami</item>
+        <item>Usopp</item>
+        <item>Sanji</item>
+        <item>Tony Tony Chopper</item>
+        <item>Nico Robin</item>
+        <item>Franky</item>
+        <item>Brook</item>
+        <item>Jinbe</item>
+    </string-array>
+
+    <string-array name="data_position">
+        <item>Pirate Captain</item>
+        <item>Pirate Swordsman</item>
+        <item>Pirate Navigator</item>
+        <item>Pirate Sniper</item>
+        <item>Pirate Chef</item>
+        <item>Pirate Doctor</item>
+        <item>Pirate Archaeologist</item>
+        <item>Pirate Shipbuilder</item>
+        <item>Pirate Musician</item>
+        <item>Pirate Helmsman</item>
+    </string-array>
+
+    <string-array name="data_from">
+        <item>Foosha Village</item>
+        <item>Shimotsuki Village</item>
+        <item>Cocoyasi Village</item>
+        <item>Syrup Island</item>
+        <item>Baratie</item>
+        <item>Drum Island</item>
+        <item>Ohara Island</item>
+        <item>Water 7</item>
+        <item>Florian Triangle</item>
+        <item>Fish Human District</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Luffy has disheveled black hair, round black eyes, and a lean muscular body. He is famous for his trademark straw hat, which was lent to him when he was young by the legendary pirate captain, "Red Hair" Shanks. He wears blue shorts with cuffs, sandals, and a sleeveless red vest. Luffy also has a scar with two stitches under his left eye.</item>
+        <item>Zoro is a tall, muscular man with bright brown skin. He always carries his three swords, wrapped in green haramaki over his right hip, so that he easily draws the swords using his left hand. Although he rarely used his right hand when drawing his sword, he usually used his right hand to draw his swords before he sat down. He has three gold earrings on his left earlobe. Zoro usually wears a black bandana tied around his left bicep and used as a headband when fighting seriously with his opponents.</item>
+        <item>Nami is an attractive young girl, medium height and slim build with neck-length orange hair and light brown eyes. She has a tattoo of a propeller and a mikan orange on her left shoulder, replacing the Arlong pirate crest, her old tattoo that she wore when she was a member of the Arlong pirates.</item>
+        <item>Usopp is a thin, fair-skinned teenager with medium-length black hair, prominent lips and a long nose, which seems to be an allusion to Pinocchio (a wooden boy from the story of the same name who had a nose that would extend after he lied). Usopp inherited his famous nose from his mother, while the rest of his face resembles that of his father.</item>
+        <item>Sanji is a young man with a thin but stocky build, long legs and blond hair. Sanji\'s trademark is his blond hair that flows down his face covering one eye. Another feature is the spiral-shaped eyebrows, but each eyebrow has a different tip. The right eyebrow forms a spiral at the end while the left eyebrow forms a spiral at the base. In addition, he is very fond of cigarettes and is almost always seen lighting a cigarette in any situation.</item>
+        <item>Chopper takes the form of a small man and a half deer. In this form, he walks on two legs, but all parts of his body are derived from the shape of a deer, such as; having fur, the shape of the nose, hands and feet and having horns. Chopper\'s left antler is fastened with a metal plate because it was broken while searching for Amiudake mushrooms when he was young. He wears a red hat with a white cross that is rarely opened and a pair of red shorts. He also sometimes carries a blue backpack on his back with the same white cross. He has a cute blue nose that is his trademark. His blue nose is the only thing he cannot change while transforming into any form.</item>
+        <item>Nico Robin is a very attractive mature woman with a tall, slender build and shoulder-length black hair. Her hair became longer when she reunited with the straw hat crew two years later. Her eyes were blue with wide pupils, her nose was sharp and thin, and her skin was slightly dark. She does not have any kind of clothing that characterizes her in particular, but it seems that she prefers clothes that are predominantly purple or dark in color. She also favors high-heeled shoes, which do not look distracting while walking or fighting. In addition, she also likes to wear a cowboy hat on various occasions.</item>
+        <item>Franky is a cyborg with a big and burly body. His height of 225 cm makes him the second tallest straw hat crew member after Brook. He has neatly combed blue hair in the "Elvis" style and blue star motif tattoos on both arms. He usually wears only underwear on a daily basis, and a casual beach shirt left unbuttoned and a gold chain necklace as accessories. Franky often wears sunglasses, especially when he gets serious, and goes barefoot everywhere. His abdomen can be opened and there is a refrigerator where he puts cola as a source of strength. Some parts of Franky\'s body, especially his hands, can be modified into various forms of weapons when he fights.</item>
+        <item>Brook is a very tall living skull with thick black curly afro-style hair. Being a skull, he has no organs other than just his bones and afro hair. He is very tall, reaching 266 and is the tallest member of the crew. He wears an all-black suit complete with a wide-collared orange shirt and some sort of purple tie, as well as a pair of shoes. Sometimes he wears a long black magic hat and carries a purple staff which is his sword.</item>
+        <item>Jinbe is a mermen of the whale shark species that is big and fat, similar to the appearance of a sumo wrestler. Its facial features are modeled after Japanese demon mythology such as "oni" with yellow eyebrows and sideburns, as well as a large nose and upward-pointing lower lip. He also has a pair of large fangs that extend upwards until the mouth exits from the lower teeth and his ears are pointed at the top. In addition, his hair is a long, curly black color that reaches down to his back, which has two gold-colored stripes and is braided at the top, and he has a bushy black beard on his chin.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://i.pinimg.com/564x/90/49/3b/90493b3b44716ea615ea178af6dcb81a.jpg</item>
+        <item>https://i.pinimg.com/564x/5f/ac/81/5fac81d993e0fe2ac4e016b452fdad88.jpg</item>
+        <item>https://i.pinimg.com/564x/b6/c0/c0/b6c0c0da308cd260c0f6493a25604e94.jpg</item>
+        <item>https://i.pinimg.com/564x/61/01/ff/6101fff515390513d739b492be22c19d.jpg</item>
+        <item>https://i.pinimg.com/564x/40/6d/ce/406dce907a1f9b34c5157bce82bb14ba.jpg</item>
+        <item>https://i.pinimg.com/564x/27/fc/15/27fc15198f93627cc06b864c6b2027ec.jpg</item>
+        <item>https://i.pinimg.com/564x/ff/a7/a3/ffa7a3d7e489f741034ec4ea064bc24c.jpg</item>
+        <item>https://i.pinimg.com/564x/6d/d3/c4/6dd3c409f5ac70357bc9b5db468780b1.jpg</item>
+        <item>https://i.pinimg.com/564x/7c/8b/f0/7c8bf058c5a6def48a041c2f6920d58e.jpg</item>
+        <item>https://i.pinimg.com/564x/4e/76/e2/4e76e21d3da846510a58503213ebd8d0.jpg</item>
+    </string-array>
+
+    <string-array name="data_link">
+        <item>https://onepiece.fandom.com/wiki/Monkey_D._Luffy</item>
+        <item>https://onepiece.fandom.com/wiki/Roronoa_Zoro</item>
+        <item>https://onepiece.fandom.com/wiki/Nami</item>
+        <item>https://onepiece.fandom.com/wiki/Usopp</item>
+        <item>https://onepiece.fandom.com/wiki/Sanji</item>
+        <item>https://onepiece.fandom.com/wiki/Tony_Tony_Chopper</item>
+        <item>https://onepiece.fandom.com/wiki/Nico_Robin</item>
+        <item>https://onepiece.fandom.com/wiki/Franky</item>
+        <item>https://onepiece.fandom.com/wiki/Brook</item>
+        <item>https://onepiece.fandom.com/wiki/Jinbe</item>
+    </string-array>
+</resources>
