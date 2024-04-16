@@ -1,7 +1,7 @@
 <h1>MugiwaraCrewApp</h1>
 
 <p align="justify">
-  <b>Mugiwara Crew App</b> is a mobile application that provides information about the members of Mugiwara Pirates who are led by Monkey D. Luffy, the main pirate group in the anime and     manga series "<b>One Piece</b>". Users can find the full profile of each member, including their name, where they are from, what their position is and a short description of      them in the story.
+  <b>Mugiwara Crew App</b> is a mobile application that provides information about the members of Mugiwara Pirates who are led by Monkey D. Luffy, the main pirate group in the       anime and manga series "<b>One Piece</b>". Users can find the full profile of each member, including their name, where they are from, what their position is and a short           description of them in the story.
 </p>
 
 <p align="center">
